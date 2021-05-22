@@ -26,7 +26,6 @@ public class Sign {
     public void doLogin() {
         boolean isRecovery = true;
         try {
-
             String user_id = "你的学号"; String password = "密码的md5值";
             Map<String, Object> body = new HashMap<>();
             body.put("user_id", user_id);
