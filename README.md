@@ -18,4 +18,3 @@
 #### 截图
 
 ![效果](https://gitee.com/g-eek/aoj-auto-check-in-assistant/blob/master/Image/1.jpg)
-
