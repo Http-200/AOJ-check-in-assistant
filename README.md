@@ -16,5 +16,4 @@
 根据注释将账号和密码换成自己的就好
 
 #### 截图
-
-![效果](https://gitee.com/g-eek/aoj-auto-check-in-assistant/blob/master/Image/1.jpg)
+![效果](https://gitee.com/g-eek/aoj-auto-check-in-assistant/blob/master/Image/1.jpg )
