@@ -16,5 +16,5 @@
 根据注释将账号和密码换成自己的就好
 
 #### 截图
-<img src="https://gitee.com/g-eek/aoj-auto-check-in-assistant/raw/master/Image/1.jpg" alt="效果" style="zoom: 33%;" />
+<img src="https://github.com/Http-200/AOJ-check-in-assistant/blob/main/Image/1.jpg" alt="效果" style="zoom: 33%;" />
 
